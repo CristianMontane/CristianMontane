@@ -9,6 +9,7 @@
 ###
 
 <p align="left">Estudiante de Ingenieria de sistemas y computacion, especializado en el desarrollo de Front-end <br><br> - 🔭 Actualmente estoy trabajando en <a href="https://sitlen.com/">Sitlen</a> y vendly<br><br>📚  Estoy enfocado en mejorar mis habilidades en diseño de interfaces de usuario responsivas, implementación de aplicaciones web interactivas y prácticas de desarrollo ágil. Me especializo en la creación de experiencias de usuario intuitivas y accesibles, utilizando tecnologías modernas como React y Next. Además, estoy comprometido con la optimización del rendimiento y la accesibilidad, asegurando que las aplicaciones funcionen de manera eficiente en una amplia variedad de dispositivos y navegadores..<br><br>⚡ En mi tiempo libre, disfruto explorar nuevas tecnologías y mantenerme al día con las últimas tendencias en desarrollo de software.
+  
 ###
 
 <h3 align="left">🛠 Lenguajes y herramientas</h3>
